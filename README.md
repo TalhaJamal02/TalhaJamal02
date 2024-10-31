@@ -1,9 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on building a series of 30 projects in 30 days to improve my full-stack development skills, focusing on React.js, Next.js, and Tailwind CSS.
+
 👯 I’m looking to collaborate on projects related to web development, especially in React and Next.js.
+
 🤝 I’m looking for help with enhancing my backend skills, particularly with Node.js and Python.
+
 🌱 I’m currently learning advanced Next.js concepts and diving deeper into Tailwind CSS for responsive design.
+
 💬 Ask me about web development, front-end frameworks, and styling with Tailwind CSS.
+
 ⚡ Fun fact: I started a journey to create a project every day, challenging myself to build new things daily for a month!
 
 ## 🌐 Socials:
