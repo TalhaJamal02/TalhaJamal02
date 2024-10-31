@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m studying at GIAIC<br>🌱 I’m currently learning Next JS
-
+🔭 I’m currently working on building a series of 30 projects in 30 days to improve my full-stack development skills, focusing on React.js, Next.js, and Tailwind CSS.
+👯 I’m looking to collaborate on projects related to web development, especially in React and Next.js.
+🤝 I’m looking for help with enhancing my backend skills, particularly with Node.js and Python.
+🌱 I’m currently learning advanced Next.js concepts and diving deeper into Tailwind CSS for responsive design.
+💬 Ask me about web development, front-end frameworks, and styling with Tailwind CSS.
+⚡ Fun fact: I started a journey to create a project every day, challenging myself to build new things daily for a month!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086759149845) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/talha-jamal-/) 
