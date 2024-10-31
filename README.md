@@ -3,7 +3,7 @@
 
 👯 I’m looking to collaborate on web development projects focused on **React.js**, **Next.js**, or **TypeScript**.
 
-🤝 I’m looking for help with advanced backend concepts and expanding my Node.js knowledge.
+🤝 I’m looking for help with advanced backend concepts and expanding my **Node.js** knowledge.
 
 🌱 I’m currently learning Next.js in-depth and building with **ShadCN** for polished UI components.
 
