@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **dvanced backend concepts and expanding my Python & Node.js knowledge.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-talha-jamal-02.vercel.app/](https://portfolio-talha-jamal-02.vercel.app/)
+- 👨‍💻 All of my projects are available at Protfolio(https://portfolio-talha-jamal-02.vercel.app/)
 
 - 💬 Ask me about **front-end development, UI design with Tailwind CSS.**
 
