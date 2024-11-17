@@ -1,4 +1,4 @@
-<img src="background.png" alt="Github Banner" />
+<img src="Banner.png" alt="Github Banner" />
 
 <h1 align="center">Hi 👋, I'm Talha Jamal</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
