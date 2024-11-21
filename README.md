@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **dvanced backend concepts and expanding my Python & Node.js knowledge.**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio-talha-jamal-02.vercel.app/)**
+- 👨‍💻 All of my projects are available at **<a href="https://talhajamal.vercel.app/" target="_blank">Portfolio</a>**
 
 - 💬 Ask me about **front-end development, UI design with Tailwind CSS.**
 
