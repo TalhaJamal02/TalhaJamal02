@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **front-end development, UI design with Tailwind CSS.**
 
-- 📫 How to reach me **talhajamal056@gmai.com**
+- 📫 How to reach me **[Gmail](talhajamal056@gmai.com)**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1OKpDjNIdaz_Slb-hyDfeYh4C60EK6Jas/view?usp=sharing)**
 
